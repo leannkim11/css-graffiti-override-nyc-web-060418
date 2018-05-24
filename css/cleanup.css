@@ -11,3 +11,7 @@
 #tag-3.slick{
   display:none !important;
 }
+
+#wall .parent #tag-5.slick {
+  display: none !important;
+}
